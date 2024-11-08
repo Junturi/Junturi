@@ -26,7 +26,7 @@ As part of my studies, I’m currently working on an IoT project involving:
 
 > **Note:** This project is currently housed in a private repository as it’s part of my coursework and will be graded. I look forward to making it publicly available upon completion!
 
-🌱 What I’m Currently Exploring
+## 🌱 What I’m Currently Exploring
 
 - Optimizing machine learning models for embedded systems.
 - Integrating low-power wireless communication for efficient data transmission.
