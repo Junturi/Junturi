@@ -32,4 +32,7 @@ As part of my studies, I’m currently working on an IoT project involving:
 - Integrating low-power wireless communication for efficient data transmission.
 - Expanding my knowledge of real-time data processing and IoT system architecture.
 
+### 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/junturi/) – Let’s connect professionally!
+
 Thanks for stopping by! 😊
